@@ -1,0 +1,12 @@
+Javascript Array Method
+- The length property array returns the size of an array
+- toString () converts an array to a string seperated by comma
+- The join() method also joins all array elements into a string and It behaves just like toString(), but in addition you can specify the separator
+- The pop() method removes the last element from an array
+- The push() method adds a new element to an array (at the end)
+- The shift() method removes the first array element and "shifts" all other elements to a lower index.
+- The unshift() method adds a new element to an array (at the beginning), and "unshifts" older elements
+- Array elements are accessed using their index number. Array indexes start with 0:
+- The length property provides an easy way to append a new element to an array
+- The concat() method creates a new array by merging (concatenating) existing arrays. The concat() method does not change the existing arrays. It always returns a new array.
+- The flat() method creates a new array with sub-array elements concatenated to a specified depth.
